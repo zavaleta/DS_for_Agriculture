@@ -1,2 +1,2 @@
-# DS_for_agriculture
-Data Science for A agriculture
+# Data Science for Agriculture
+Data Science for Agriculture
